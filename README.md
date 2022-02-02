@@ -1,1 +1,1 @@
-the first result is addition, second is subtraction, third is multiplication, fourth is division
+the first result is addition, second is subtraction, third is multiplication, and fourth is division
