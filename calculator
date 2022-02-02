@@ -1,0 +1,5 @@
+numba1 = input ("enter a numba plz =")
+numba2 = input ("enter anotha plz =")
+
+result = int (numba1) + int (numba2), int (numba1) - int (numba2), int (numba1) * int (numba2), int (numba1) / int (numba2)
+print (result)
